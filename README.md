@@ -7,32 +7,28 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 
 ## Blockchain
 
-| Name          | Description    | Chain    | Composability |          
-| -------       | ------         | ------   |------         | 
-
-## DAO
-
-| Name          | Description    | Chain    | Composability |          
-| -------       | ------         | ------   |------         | 
+|| Name          | Description    | Chain    | Composability |          
+|-------      | -------       | ------         | ------   |------         | 
 
 ## DAO Governance
 
-| Name          | Description    | Chain    | Composability |          
-| -------       | ------         | ------   |------         | 
+|| Name          | Description    | Chain    | Composable |          
+|-------      | -------       | ------         | ------   |------         | 
+|<img src="./images/aragon.png" width="200" height="100">|Aragon|Easily create and run your DAO – without needing to code. Learn and adapt your DAO as you grow or use smart contracts|Ethereum or EVM Equivalent|Yes|
 
 ## DAO Treasury
 
-| Name          | Description    | Chain    | Composability |          
-| -------       | ------         | ------   |------         | 
+|| Name          | Description    | Chain    | Composability |          
+|-------      | -------       | ------         | ------   |------         | 
 
 ## DEX
 
-| Name          | Description    | Chain    | Composability |          
-| -------       | ------         | ------   |------         | 
+|| Name          | Description    | Chain    | Composability |          
+|-------      | -------       | ------         | ------   |------         | 
 
 ## Liquidity
 
-| Name          | Description    | Chain    | Composability |          
-| -------       | ------         | ------   |------         | 
+|| Name          | Description    | Chain    | Composability |          
+|-------      | -------       | ------         | ------   |------         | 
 
 
