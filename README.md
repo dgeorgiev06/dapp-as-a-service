@@ -21,7 +21,7 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 |Diagram| Name          | Description    | Runtime    | Contract Composability |          
 |-------      | -------       | ------         | ------   |------         | 
 
-## DEX
+## DEX as a service
 
 |Diagram| Name          | Description    | Runtime    | Contract Composability |          
 |-------      | -------       | ------         | ------   |------         | 
