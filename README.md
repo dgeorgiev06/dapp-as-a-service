@@ -29,6 +29,6 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 ## Liquidity as a service
 
 || Name          | Description    | Chain    | Composability |          
-|-------      | -------       | ------         | ------   |------         | 
+|-----------      | -------       | ------         | ------   |------         | 
 |<img src="./images/olympus_pro.png" width="200" height="100">|[Olympus Pro](https://www.olympusdao.finance/olympus-pro)|Olympus Pro introduces the innovative bonding mechanism of Olympus as a service for other protocols. Similar to bonding on Olympus, Olympus Pro allows a user to exchange existing liquidity for the protocol’s native token at a discount. In exchange, the protocol owns the liquidity instead of renting it, which helps secure longevity and price stability for everyone involved.|Ethereum|Yes|
 
