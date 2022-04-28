@@ -12,8 +12,7 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 
 ## DAO Governance
 
-|| Name          | Description    | Runtime    | Smart Contract
-Composability |          
+|| Name          | Description    | Runtime    | Contract Composability |          
 |-------      | -------       | ------         | ------   |------         | 
 |<img src="./images/aragon.png" width="200" height="100">|[Aragon](https://aragon.org/aragon-app)|Easily create and run your DAO – without needing to code. Learn and adapt your DAO as you grow.|Ethereum or EVM Equivalent|Yes|
 
