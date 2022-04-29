@@ -3,28 +3,25 @@
 
 Web 2.0 and the cloud coined the term "as a service" - PaaS, SaaS, etc. Today Web 3.0 is following suite and various solutions are coming to light that offer generic services from blockchains to bootstrapping liquidity for DeFi protocols allowing entrepeneurs to bring ideas to market a lot quicker.
 
-I am creating this repo to track Web 3.0 solutions that can be used "as a service"
-
-## Blockchain as a service
-
-|Diagram| Name          | Description    | Chain    |        
-|-------      | -------       | ------         | ------   |
+I am creating this repo to track Web 3.0 solutions that can be used "as a service".  These services can offer no code setup with UI and composable smart contracts where more control/customization is required.
 
 ## DAO Governance as a service
 
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
-|<img src="./images/aragon.png" width="200" height="100">|[Aragon](https://aragon.org/aragon-app)|Easily create and run your DAO – without needing to code. Learn and adapt your DAO as you grow.|Ethereum or EVM Equivalent|Yes|
+|<img src="./images/aragon.png" width="200" height="100">|[Aragon](https://aragon.org/aragon-app)|Easily create and run your DAO – without needing to code. Learn and adapt your DAO as you grow.|Ethereum or EVM Equivalent|
 
 ## DAO Treasury as a service
 
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
+|<img src="./images/gnosis_safe.png" width="200" height="100">|[Gnosis Safe](https://gnosis-safe.io/app/welcome)|Gnosis Safe is a smart contract wallet running on Ethereum that requires a minimum number of people to approve a transaction before it can occur (M-of-N). If for example you have 3 main stakeholders in your business, you are able to set up the wallet to require approval from all 3 people before the transaction is sent. This assures that no single person could compromise the funds.|Ethereum or EVM Equivalent|
 
 ## DEX as a service
 
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
+|<img src="./images/0x.png" width="200" height="100">|[0x](https://www.0x.org/)|0x is a permissionless liquidity protocol built on Ethereum for creating decentralized exchanges, connecting liquidity providers and incentivizing market makers to fuel DeFi asset trading. 0x itself is not a decentralized exchange, simply the infrastructure for building decentralized exchanges and connecting liquidity providers across a range of sources. The protocol supports token exchanges for ERC20, ERC721, and other Ethereum token standards. |
 
 ## Liquidity as a service
 
