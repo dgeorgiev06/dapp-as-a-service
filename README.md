@@ -10,12 +10,15 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
 |<img src="./images/aragon.png" width="200" height="100">|[Aragon](https://aragon.org/aragon-app)|Easily create and run your DAO – without needing to code. Learn and adapt your DAO as you grow.|Ethereum or EVM Equivalent|
+|<img src="./images/element_dao.png" width="200" height="100">|[Element governance](https://medium.com/element-finance/an-introduction-to-elements-governance-model-efea13d1c7ee)|The core governance system consists of on-chain vote counting, proposal thresholds, custom quorum requirements, and a timelock for executing security-critical votes. Additionally, we developed a new concept called Voting Vaults that allows governance users to delegate assets for governance while retaining the ability to use the same assets for any other purpose in DeFi, such as earning yield or leveraging.|Ethereum or EVM Equivalent|
+|<img src="./images/zeppelin_gov.webp" width="200" height="100">|[OpenZeppelin Governor](https://blog.openzeppelin.com/governor-smart-contract/)|OpenZeppelin Governor provides compatibility with Compound’s GovernorAlpha and GovernorBravo for easy migration of protocols and dapps while offering ease of customization, modularity, and significant gas cost reductions. Many modules are presented in two variants, one of which is fully compatible with Compound’s governance systems.|Ethereum or EVM Equivalent|
 
 ## DAO Treasury as a service
 
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
 |<img src="./images/gnosis_safe.png" width="200" height="100">|[Gnosis Safe](https://gnosis-safe.io/app/welcome)|Gnosis Safe is a smart contract wallet running on Ethereum that requires a minimum number of people to approve a transaction before it can occur (M-of-N). If for example you have 3 main stakeholders in your business, you are able to set up the wallet to require approval from all 3 people before the transaction is sent. This assures that no single person could compromise the funds.|Ethereum or EVM Equivalent|
+|<img src="./images/element_treasury.png" width="200" height="100">|[Element Treasury management](https://medium.com/element-finance/introducing-elements-treasury-management-initiative-bbebbd99f89)|take a passive long-term strategy with minimal exposure to interest rate risks and incrementally grow the size of their treasury using Element.|Ethereum or EVM Equivalent|
 
 ## DEX as a service
 
