@@ -24,7 +24,7 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
-|<img src="./images/0x.png" width="200" height="100">|[0x](https://www.0x.org/)|0x is a permissionless liquidity protocol built on Ethereum for creating decentralized exchanges, connecting liquidity providers and incentivizing market makers to fuel DeFi asset trading. 0x itself is not a decentralized exchange, simply the infrastructure for building decentralized exchanges and connecting liquidity providers across a range of sources. The protocol supports token exchanges for ERC20, ERC721, and other Ethereum token standards. |
+|<img src="./images/0x.png" width="200" height="100">|[0x](https://www.0x.org/)|0x is a permissionless liquidity protocol built on Ethereum for creating decentralized exchanges, connecting liquidity providers and incentivizing market makers to fuel DeFi asset trading. 0x itself is not a decentralized exchange, simply the infrastructure for building decentralized exchanges and connecting liquidity providers across a range of sources. The protocol supports token exchanges for ERC20, ERC721, and other Ethereum token standards. | Ethereum or EVM Equivalent|
 
 ## Liquidity as a service
 
