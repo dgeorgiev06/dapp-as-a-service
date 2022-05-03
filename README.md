@@ -21,6 +21,7 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 |-------      | -------       | ------         | ------   |
 |<img src="./images/gnosis_safe.png" width="200" height="100">|[Gnosis Safe](https://gnosis-safe.io/app/welcome)|Gnosis Safe is a smart contract wallet running on Ethereum that requires a minimum number of people to approve a transaction before it can occur (M-of-N). If for example you have 3 main stakeholders in your business, you are able to set up the wallet to require approval from all 3 people before the transaction is sent. This assures that no single person could compromise the funds.|Ethereum or EVM Equivalent|
 |<img src="./images/element_treasury.png" width="200" height="100">|[Element Treasury management](https://medium.com/element-finance/introducing-elements-treasury-management-initiative-bbebbd99f89)|take a passive long-term strategy with minimal exposure to interest rate risks and incrementally grow the size of their treasury using Element.|Ethereum or EVM Equivalent|
+|<img src="./images/coordinae.png" width="200" height="100">|[Coordinape](https://docs.coordinape.com/)|Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.|Ethereum or EVM Equivalent|
 
 ## DEX as a service
 
