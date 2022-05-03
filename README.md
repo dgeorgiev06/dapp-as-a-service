@@ -1,5 +1,5 @@
 
-# DeFi technology as a service
+# DeFi technology as a service 
 
 Web 2.0 and the cloud coined the term "as a service" - PaaS, SaaS, etc. Today Web 3.0 is following suite and various solutions are coming to light that offer generic services from blockchains to bootstrapping liquidity for DeFi protocols allowing entrepreneurs to bring ideas to market a lot quicker.
 
@@ -12,6 +12,7 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 |<img src="./images/aragon.png" width="200" height="100">|[Aragon](https://aragon.org/aragon-app)|Easily create and run your DAO – without needing to code. Learn and adapt your DAO as you grow.|Ethereum or EVM Equivalent|
 |<img src="./images/element_dao.png" width="200" height="100">|[Element governance](https://medium.com/element-finance/an-introduction-to-elements-governance-model-efea13d1c7ee)|The core governance system consists of on-chain vote counting, proposal thresholds, custom quorum requirements, and a timelock for executing security-critical votes. Additionally, we developed a new concept called Voting Vaults that allows governance users to delegate assets for governance while retaining the ability to use the same assets for any other purpose in DeFi, such as earning yield or leveraging.|Ethereum or EVM Equivalent|
 |<img src="./images/zeppelin_gov.webp" width="200" height="100">|[OpenZeppelin Governor](https://blog.openzeppelin.com/governor-smart-contract/)|OpenZeppelin Governor provides compatibility with Compound’s GovernorAlpha and GovernorBravo for easy migration of protocols and dapps while offering ease of customization, modularity, and significant gas cost reductions. Many modules are presented in two variants, one of which is fully compatible with Compound’s governance systems.|Ethereum or EVM Equivalent|
+|<img src="./images/commonwealth.png" width="200" height="100">|[Commonwealth.io](https://docs.commonwealth.im/commonwealth/)|Commonwealth combines the core functionality of Discourse, Snapshot, on-chain voting, and network analytics all into one place via a crypto-native product. This means decentralized governance, community discussions, treasury management, and more happen all on Commonwealth.|Ethereum or EVM Equivalent|
 
 ## DAO Treasury as a service
 
