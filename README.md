@@ -30,6 +30,12 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 |-------      | -------       | ------         | ------   |
 |<img src="./images/0x.png" width="200" height="100">|[0x](https://www.0x.org/)|0x is a permissionless liquidity protocol built on Ethereum for creating decentralized exchanges, connecting liquidity providers and incentivizing market makers to fuel DeFi asset trading. 0x itself is not a decentralized exchange, simply the infrastructure for building decentralized exchanges and connecting liquidity providers across a range of sources. The protocol supports token exchanges for ERC20, ERC721, and other Ethereum token standards. | Ethereum or EVM Equivalent|
 
+## Infrastructure as a service
+
+|Diagram| Name          | Description    | Runtime    |         
+|-------      | -------       | ------         | ------   |
+|<img src="./images/alchemy-supernode.png" width="200" height="100">|[Alechmy supernode](https://www.alchemy.com/supernode)|Alchemy Supernode is an infrastructure engine specifically designed for Web 3.0. The blockchain-native architecture delivers peak reliability by powering each piece of node functionality with dedicated, distributed infrastructure. Alchemy Supernode also ensures the data is always correct, real-time, and in sync across every corner of the system thanks to a proprietary coordinator service. This allows Alchemy Supernode to scale quickly, gracefully, and infinitely so developers never need to worry about maintaining infrastructure again. Like the rest of the Alchemy developer platform, it’s fast and simple to set up. No code, no configuration — it works out of the box.|
+
 ## Liquidity as a service
 
 |Diagram| Name          | Description    | Runtime  |           
