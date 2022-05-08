@@ -1,5 +1,5 @@
 
-# DeFi technology as a service 
+# DeFi technologies as a service 
 
 Web 2.0 and the cloud coined the term "as a service" - PaaS, SaaS, etc. Today Web 3.0 is following suite and various solutions are coming to light that offer generic services from blockchains to bootstrapping liquidity for DeFi protocols allowing entrepreneurs to bring ideas to market a lot quicker.
 
