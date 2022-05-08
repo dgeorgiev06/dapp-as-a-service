@@ -3,7 +3,7 @@
 
 Web 2.0 and the cloud coined the term "as a service" - PaaS, SaaS, etc. Today Web 3.0 is following suite and various solutions are coming to light that offer generic services from blockchains to bootstrapping liquidity for DeFi protocols allowing entrepreneurs to bring ideas to market a lot quicker.
 
-I am creating this repo to track Web 3.0 solutions that can be used "as a service".  These services can offer no code setup with UI and composable smart contracts where more control/customization is required.
+I am creating this repo to track Web 3.0 solutions that can be used "as a service".  These services can offer no code setup with UI and composable smart contracts when more control/customization is required.
 
 ## DAO Governance as a service
 
