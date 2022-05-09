@@ -7,6 +7,8 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 
 You'll find resources below organized in the following categories: DAO governance, DAO treasury, DEX, Infrastructure, Token liquidity, Contract/Transaction automation, Oracles
 
+<img src="./images/high_level_diagram.png" width="800" height="600">
+
 ## DAO Governance as a service
 
 |Diagram| Name          | Description    | Runtime    |         
