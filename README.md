@@ -48,3 +48,9 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 |<img src="./images/gysr.png" width="200" height="100">|[GYSR](https://docs.gysr.io/)|The GYSR platform allows anyone to configure, launch, and manage a staking pool with zero code. These pools provide a trustless agreement between creators and users, allowing projects to promote meaningful participation in their protocol with fair and transparent rewards.|Ethereum and EVM equivalent|
 |<img src="./images/gelato.png" width="200" height="100">|[Arrakis](https://www.arrakis.finance/?ref=intro-medium-post)|Arrakis (formerly G-UNI) has one mission: to become web3’s liquidity layer, enabling LPs and tokenized projects to optimize their DEX liquidity on and across multiple blockchains in a seamless and automated manner. The Arrakis DAO overseeing this protocol is the coordination point for projects looking to aggregate & bootstrap liquidity effectively and the most attractive destination for market making strategists to design automated liquidity provision strategies.|Ethereum and EVM equivalent|
 
+## Contract/Transaction automation
+
+|Diagram| Name          | Description    | Runtime  |           
+|-------      | -------       | ------         | ------   |
+|<img src="./images/chainlink-keepers.jpeg" width="200" height="100">|[Chainlink keepers](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)|Decentralized transaction automation solution that enables smart contracts to automate key functions and DevOps tasks in a highly reliable, trust-minimized, and cost-efficient manner. Individual developers, teams, and DAOs can utilize Chainlink Keepers as an off-chain computation layer to reliably automate key functions and unlock advanced utility.|
+
