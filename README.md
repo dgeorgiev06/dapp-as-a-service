@@ -5,6 +5,8 @@ Web 2.0 and the cloud coined the term "as a service" - PaaS, SaaS, etc. Today We
 
 I am creating this repo to track Web 3.0 solutions that can be used "as a service".  These services can offer no code setup with UI and composable smart contracts when more control/customization is required.
 
+You'll find resources below organized in the following categories: DAO governance, DAO treasury, DEX, Infrastructure, Token liquidity, Contract/Transaction automation, Oracles
+
 ## DAO Governance as a service
 
 |Diagram| Name          | Description    | Runtime    |         
@@ -52,5 +54,10 @@ I am creating this repo to track Web 3.0 solutions that can be used "as a servic
 
 |Diagram| Name          | Description    | Runtime  |           
 |-------      | -------       | ------         | ------   |
-|<img src="./images/chainlink-keepers.jpeg" width="200" height="100">|[Chainlink keepers](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)|Decentralized transaction automation solution that enables smart contracts to automate key functions and DevOps tasks in a highly reliable, trust-minimized, and cost-efficient manner. Individual developers, teams, and DAOs can utilize Chainlink Keepers as an off-chain computation layer to reliably automate key functions and unlock advanced utility.|
+|<img src="./images/chainlink-keepers.jpeg" width="200" height="100">|[Chainlink keepers](https://blog.chain.link/smart-contract-automation-use-cases-powered-by-chainlink-keepers/)|Decentralized transaction automation solution that enables smart contracts to automate key functions and DevOps tasks in a highly reliable, trust-minimized, and cost-efficient manner. Individual developers, teams, and DAOs can utilize Chainlink Keepers as an off-chain computation layer to reliably automate key functions and unlock advanced utility.|Ethereum and EVM equivalent|
 
+## Oracles
+
+|Diagram| Name          | Description    | Runtime  |           
+|-------      | -------       | ------         | ------   |
+|<img src="./images/chainlink.png" width="200" height="100">|[Chainlink](https://www.kaleido.io/blockchain-blog/how-chainlink-works-under-the-covers)| A Chainlink network is made up of a collection of Chainlink nodes with registered Job specifications, who can carry out Jobs execution coordinated by the on-chain Oracle contract(s), which use LINK Tokens as an incentive for the Chainlink node operators to serve clients via the Chainlink client smart contracts.|Ethereum and EVM equivalent|
