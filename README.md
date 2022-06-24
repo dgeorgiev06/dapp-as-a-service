@@ -32,7 +32,7 @@ You'll find resources below organized in the following categories: DAO governanc
 
 |Diagram| Name          | Description    | Runtime    |         
 |-------      | -------       | ------         | ------   |
-|<img src="./images/defender.webm" width="200" height="100">|[Openzeppelin Defender](https://www.openzeppelin.com/defender)|With Defender Admin, you can seamlessly manage all smart contract administration including access controls, upgrades, and pausing. Works with popular multi-sigs including Gnosis Safe.|
+|<img src="./images/defender.png" width="200" height="100">|[Openzeppelin Defender](https://www.openzeppelin.com/defender)|With Defender Admin, you can seamlessly manage all smart contract administration including access controls, upgrades, and pausing. Works with popular multi-sigs including Gnosis Safe.|
 
 ## Token liquidity as a service
 
