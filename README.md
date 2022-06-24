@@ -28,6 +28,12 @@ You'll find resources below organized in the following categories: DAO governanc
 |<img src="./images/element_treasury.png" width="200" height="100">|[Element Treasury management](https://medium.com/element-finance/introducing-elements-treasury-management-initiative-bbebbd99f89)|take a passive long-term strategy with minimal exposure to interest rate risks and incrementally grow the size of their treasury using Element.|Ethereum or EVM Equivalent|
 |<img src="./images/coordinape.png" width="200" height="100">|[Coordinape](https://docs.coordinape.com/)|Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.|Ethereum or EVM Equivalent|
 
+## Administration as a service
+
+|Diagram| Name          | Description    | Runtime    |         
+|-------      | -------       | ------         | ------   |
+|<img src="./images/defender.webm" width="200" height="100">|[Openzeppelin Defender](https://www.openzeppelin.com/defender)|With Defender Admin, you can seamlessly manage all smart contract administration including access controls, upgrades, and pausing. Works with popular multi-sigs including Gnosis Safe.|
+
 ## Token liquidity as a service
 
 |Diagram| Name          | Description    | Runtime  |           
